@@ -75,7 +75,7 @@ def get_voice_input():
             return ""
 
 # 🔧 Website to scrape
-scrape_website("https://www.wearcomet.com/collections/x-lows-men")
+scrape_website("")
 
 # Chat loop
 while True:
